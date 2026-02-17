@@ -1,6 +1,6 @@
-# 🔎 Passive Reconnaissance for Web Applications
+<h1 align="center">🔎 Passive Reconnaissance</h1>
+<h3 align="center">Web Application Security - Information Gathering Phase</h3>
 
-> Information gathering without directly interacting with the target system.
-
-Passive reconnaissance is the first and most critical phase of web application security testing. 
-It involves collecting publicly available information about the target without sending traffic to the target server.
+<p align="center">
+Collecting intelligence without directly interacting with the target system.
+</p>
